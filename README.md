@@ -1,7 +1,10 @@
 # Hi there, I'm Jakub! 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on my Blog using Astro.js<br>🤝 I’m looking for help with Astro.js<br>🌱 I’m currently learning JavaScript, Astro.js, Vue.js<br>
+
+Junior Frontend Developer from the eastern part of Poland, where winters are harsh and summers are hot. 🌞❄️ I have a passion for simple, yet functional designs that make websites easy to use without second-guessing how to find what you're looking for, and where everything runs smoothly. That's why I became a frontend developer — to create those kinds of experiences for others.
+
+🌱I'm currently learning JavaScript and diving into Astro.js/Vue.js to build even better and more efficient applications. <br>When I'm not coding, you can find me fishing 🎣 or playing guitar 🎸, mostly rocking out to classic rock and blues tunes!
 
 
 ## 🌐 Socials:
