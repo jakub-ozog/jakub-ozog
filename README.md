@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Jakub! 👋
 
 ## 💫 About Me:
 🔭 I’m currently working on my Blog using Astro.js<br>🤝 I’m looking for help with Astro.js<br>🌱 I’m currently learning JavaScript, Astro.js, Vue.js<br>
