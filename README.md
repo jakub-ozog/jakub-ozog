@@ -15,6 +15,7 @@ Junior Frontend Developer from the eastern part of Poland, where winters are har
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jakub-ozog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-ozog&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
